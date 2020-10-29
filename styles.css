@@ -1,0 +1,15 @@
+/* comment in css   */
+/*
+property{
+	selector: value;
+}
+
+
+*/
+
+
+body{
+	color: blue; /*changes the font to blue*/
+	background-color: yellow;
+	padding: 40px;
+}

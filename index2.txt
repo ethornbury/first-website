@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- this will be ignored by browser   -->
+		<!-- this is the title of webpage and can be seen in tab -->
+		<title>Emers first website  </title> <!-- comment -->
+	</head>
+	
+	<body>
+		
+		<h1> This is a heading!!</h1>
+		<h2> this is a smaller heading tag</h2>
+		<h3> heading 3</h3>
+		<h6> heading 6</h6>
+		<p> this is a <b> bold paragraph</b></p>
+		
+		<a href="https://www.ncirl.ie/" >link text </a>
+		
+	</body>
+</html>
